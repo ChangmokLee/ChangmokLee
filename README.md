@@ -12,4 +12,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokcandy97)](https://solved.ac/mokcandy97/) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangmokLee&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangmokLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
