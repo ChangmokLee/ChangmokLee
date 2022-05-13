@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c31432,100:240b36&height=200&section=header&text=Welcome&fontSize=70&desc=changmok's%20github%20profile&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=50)
   
 <div align=center>
-
-### **ChangmokLee**
+:smile:### **ChangmokLee**
   
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
