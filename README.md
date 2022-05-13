@@ -1,15 +1,3 @@
-<style type="text/css>
-@font-face {
-    font-family: 'HallymMjo-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2204@1.0/HallymMjo-Regular.woff2') format('woff2');
-    font-weight: 400;
-    font-style: normal;
-}
-body{
-font-family: 'HallymMjo-Regular';
-}
-</style>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c31432,100:240b36&height=200&section=header&text=Welcome&fontSize=70&desc=changmok's%20github%20profile&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=50)
   
 <div align=center>
