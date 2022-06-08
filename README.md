@@ -4,7 +4,7 @@
   
 ### :star2: **ChangmokLee** :star2:
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangmokLee&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://changmoklee.github.io/"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Blogger&logoColor=white"/></a>  <a href="mailto:mokcandy97@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangmokLee&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://coping.tistory.com/"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Blogger&logoColor=white"/></a>  <a href="mailto:mokcandy97@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
 ### 📝 Studying 📝
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/><br/>
 ### 🛠️ Tools 🛠️
