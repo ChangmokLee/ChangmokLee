@@ -10,7 +10,7 @@
 ### 🛠️ Tools 🛠️
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/><br/><br/><img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"/><br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokcandy97)](https://solved.ac/mokcandy97/) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangmokLee&count_private=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangmokLee&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangmokLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
